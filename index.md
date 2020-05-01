@@ -3,9 +3,16 @@
 Hi, I am a bachelor of economics. I will push something about the economics in this page in the days to come, including my study records, study materials and something I want to discuss with you. I wish we will have a good experience.
 
 About the "Econote"
-It is a word which be created by myself, it is a combination of Eco and note. Eco, of courese, is economics prefix, note means random record
+It is a word which be created by myself, it is a combination of Eco and note. Eco, of course, is economics prefix, note means random record.
 
-### Markdown
+### Personal imformation
+Name: ChenXiaolong
+Degree: Bachelor
+School: North China Institute Of Aerospace Engineering
+Department：School of Economics and Management
+Profession：Economics
+
+### Page Context
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
