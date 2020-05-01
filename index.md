@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+## My Econote
 
-You can use the [editor on GitHub](https://github.com/ChenXiaolong2020/Xiaolong.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hi, I am a bachelor of economics. I will push something about the economics in this page in the days to come, including my study records, study materials and something I want to discuss with you. I wish we will have a good experience.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+About the "Econote"
+It is a word which be created by myself, it is a combination of Eco and note. Eco, of courese, is economics prefix, note means random record
 
 ### Markdown
 
