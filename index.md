@@ -4,7 +4,7 @@ Hi, I am a bachelor of economics. I will push something about the economics in t
 
 About the "Econote". It is a word which be created by myself, it is a combination of Eco and note. Eco, of course, is economics prefix, note means random record. 
 
-in the last few days, maybe I will publish something about Econometrics and Financial Engineering. In my opinion, these two subjects are important and full of charm. I hope one day I can learn them well.
+In the last few days, maybe I will publish something about Econometrics and Financial Engineering. In my opinion, these two subjects are important and full of charm. I hope one day I can learn them well.
 
 ### Page Context
 
