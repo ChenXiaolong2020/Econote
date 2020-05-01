@@ -26,10 +26,8 @@ Click the button below，you can quickly reach site which you want.
 
 ##### Practice
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 ### Personal imformation
-Name: ChenXiaolong
+Name: Chen Xiaolong
 
 Degree: Bachelor
 
@@ -41,6 +39,3 @@ Profession：Economics
 
 QQ: 358657161
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
