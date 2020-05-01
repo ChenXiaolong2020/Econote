@@ -6,27 +6,27 @@ About the "Econote". It is a word which be created by myself, it is a combinatio
 
 In the last few days, maybe I will publish something about Econometrics and Financial Engineering. In my opinion, these two subjects are important and full of charm. I hope one day I can learn them well.
 
-### Context (Under Construction)
+## Context (Under Construction)
 
 Click the button below，you can quickly reach site which you want.
 
-#### Econometrics
+### Econometrics
 
-##### Indructions
+#### Indructions
 
-##### Notes
+#### Notes
 
-##### Practice
+#### Practice
 
-#### Financial Engineering
+### Financial Engineering
 
-##### Indructions
+#### Indructions
 
-##### Notes
+#### Notes
 
-##### Practice
+#### Practice
 
-### Personal imformation
+## Personal imformation
 Name: Chen Xiaolong
 
 Degree: Bachelor
