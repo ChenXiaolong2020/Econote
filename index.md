@@ -1,6 +1,6 @@
 ## My Econote
 
-Hi, I am an undergraduate student student of economics. I will push something about the economics in this page in the days to come, including my study records, study materials and something I want to discuss with you. I wish we will have a good experience.
+Hi, I am an undergraduate student of economics. I will push something about the economics in this page in the days to come, including my study records, study materials and something I want to discuss with you. I wish we will have a good experience.
 
 About the "Econote". It is a word which be created by myself, it is a combination of Eco and note. Eco, of course, is economics prefix, note means random record. 
 
